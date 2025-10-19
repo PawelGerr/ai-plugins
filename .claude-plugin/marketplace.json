@@ -1,0 +1,19 @@
+{
+  "name": "pawel-gerr-ai-plugins",
+  "owner": {
+    "name": "Pawel Gerr"
+  },
+  "metadata": {
+    "description": "AI plugins for claude",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "awesome-thinking",
+      "source": "./plugins/awesome-thinking",
+      "description": "Skill and agent for analysis of complex tasks",
+      "version": "1.0.0",
+      "strict": false
+    }
+  ]
+}
